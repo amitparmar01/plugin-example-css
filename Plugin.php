@@ -23,7 +23,7 @@ class Plugin extends Base
 
     public function getPluginAuthor()
     {
-        return 'Author';
+        return 'Amit Parmar';
     }
 
     public function getPluginVersion()
@@ -33,6 +33,6 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/kanboard/plugin-example-css';
+        return 'https://github.com/amitparmar01/plugin-example-css';
     }
 }
