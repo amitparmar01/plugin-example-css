@@ -106,13 +106,11 @@ header {
   outline: none;
   background: linear-gradient(45deg, #d350db, teal, #d350db);
   background-size: 400% 400%;
-  box-shadow: 1vw 1vw 0 lightcoral;
   cursor: pointer;
   transition: all 0.3s ease;
 }
 header:hover {
   animation: gradient 10s ease infinite;
-  box-shadow: 0.2vw 0.2vw 0 lightcoral;
 }
 
 .board-selector-container {
