@@ -12,9 +12,9 @@ Installation
 Author
 ------
 
-The example stylesheet come from the [issue #1248](https://github.com/fguillot/kanboard/issues/1248) created by @oliverh72
+The base stylesheet was created by https://github.com/ThomasTJdev/KanboardCSS
 
 Screenshot
 ----------
 
-![plugin-css](https://cloud.githubusercontent.com/assets/323546/10009045/ff659ec4-60a4-11e5-9af3-c63a1bef58d6.png)
+![plugin-css](https://user-images.githubusercontent.com/13027928/31583596-3c55413a-b1bc-11e7-94c5-bcda5b2e3fb3.png)
