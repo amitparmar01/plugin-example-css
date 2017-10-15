@@ -492,6 +492,12 @@ th.board-swimlane-header {
     min-width: 5px;
 }
 
+input::-webkit-input-placeholder,
+button {
+  font-family: "roboto", sans-serif;
+  transition: all 0.3s ease-in-out;
+}
+
 input, select, textarea {
   display: block;
   padding: 5px;
@@ -502,3 +508,30 @@ input, select, textarea {
   background-repeat: no-repeat;
   color: #0e6252;
 }
+
+.task-form-container {
+	padding: 15px;
+}
+
+.task-form-container select{
+	width: 200px;
+}
+
+
+button {
+  border: none;
+  background: #1abc9c;
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 6px;
+  width: 200px;
+  color: white;
+  margin-left: 25px;
+  box-shadow: 0 3px 6px 0 rgba(0,0,0,0.2);
+  &:hover { 
+    transform: translateY(-3px);
+    box-shadow: 0 6px 6px 0 rgba(0,0,0,0.2);
+  }
+}
+
+
